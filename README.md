@@ -6,7 +6,7 @@ A modern, responsive portfolio website built to showcase my skills, projects, an
 
 ## 🌐 Live Demo
 
-🔗 [View Portfolio](https://your-portfolio-link.com)
+🔗 [View Portfolio](https://portfolio-website-nu-jet.vercel.app)
 
 ---
 
